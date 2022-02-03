@@ -28,8 +28,9 @@ _IMPORTANT NOTE:_
 
 ![image](https://user-images.githubusercontent.com/65659361/152406142-d309f06b-2278-4642-a0a9-6c7cdfcd94b6.png)
 
-1 is the BIN given
-12 Month
+1.1 is the BIN given
+
+1.2 Month
 
 1.3 Year
 
@@ -46,7 +47,9 @@ _IMPORTANT NOTE:_
 
 213 - CVV
 
-**Now that you have the Credit Card information go to SkillShare and register.**
+-----------------------------------------
+FROM EXAMPLE : **Now that you have the Credit Card information go to SkillShare and register.**
+-----------------------------------------
 
 On payment option provide the needed information.
 
@@ -67,7 +70,6 @@ If payment failed, meaning the BIN is already patch or not working.
 
 Hoping this will help you :)
 
-
-
+-----------------------------------------
 
 TO BE UPDATED
