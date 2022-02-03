@@ -39,7 +39,6 @@ You will get the CC Details like this so:
 -----------------------------------------
 
 Put these details in the payment mode (for buying anything) and some more details which are regarding you and your family or your address or
-
 something like that.
 
 TO BE UPDATED
