@@ -3,6 +3,8 @@
 In this respiratory I shall be telling how can a person use bin (bank identification number) to claim any Premium subscription such as Xbox gamepass , Spotify Premium. ⚠️FOR 
 EDUCATIONAL PURPOUS ONLY⚠️
 
+-----------------------------------------
+
 **What are BINs?**
 
 -Bank Idefication Number which can be used to generate fake credit card information which you can use to claim your favourite subscriptions for free.
@@ -19,6 +21,8 @@ You can get CC card details using a CC gen: https://namso-gen.com/
 
 -Now you can use them anywhere.
 
+-----------------------------------------
+
 **Now how to use that generated CC Details?**
 
 You will get the CC Details like this so:
@@ -31,6 +35,8 @@ You will get the CC Details like this so:
 -> The second and the third digits are your (|02|2023|) expiry dates of your card.
 
 -> The Last three digits of these details (743) is your CVV/VCC2/etc.
+
+-----------------------------------------
 
 Put these details in the payment mode (for buying anything) and some more details which are regarding you and your family or your address or
 
