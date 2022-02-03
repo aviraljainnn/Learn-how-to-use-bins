@@ -8,37 +8,66 @@ EDUCATIONAL PURPOUS ONLY⚠️
 **What are BINs?**
 
 -Bank Idefication Number which can be used to generate fake credit card information which you can use to claim your favourite subscriptions for free.
+Example bin : 
+
+<img width="188" alt="image" src="https://user-images.githubusercontent.com/65659361/152406758-217e6006-94e9-420e-82dd-5ae8e498cc33.png">
+
+_IMPORTANT NOTE:_
+
+1. If the IP says USA make sure that before you open or visit the website you are already connected in the USA thru VPN.
+
+2. IP will change depending on the availability of the BIN.
+
+3. The BIN usually works on trial only.
+
+-----------------------------------------
 
 **How to get CC using BINs?**
 
-You can get CC card details using a CC gen: https://namso-gen.com/
+1- Go to - http://namso-gen.com 60 and provide the necessary information/data based on the given BIN. Kindly refer to the below image:
 
--Copy the Bin and Paste in Bin Blank.
+![image](https://user-images.githubusercontent.com/65659361/152406142-d309f06b-2278-4642-a0a9-6c7cdfcd94b6.png)
 
--Set Amount to 100
+1 is the BIN given
+12 Month
 
--Now click generate.
+1.3 Year
 
--Now you can use them anywhere.
+1.4 How many Credit Card you want to generate
 
------------------------------------------
+1.5 Click Generate
 
-**Now how to use that generated CC Details?**
-
-You will get the CC Details like this so:
-
-4060687662287260|02|2023|743
+1.6 Credit Card being generate using the BIN
 
 
--> So the starting 10 digits of these details (4060687662287260) is your card number.
+4001517321012340 - Credit Card Number
 
--> The second and the third digits are your (|02|2023|) expiry dates of your card.
+09|2026 - Month and Year
 
--> The Last three digits of these details (743) is your CVV/VCC2/etc.
+213 - CVV
 
------------------------------------------
+**Now that you have the Credit Card information go to SkillShare and register.**
 
-Put these details in the payment mode (for buying anything) and some more details which are regarding you and your family or your address or
-something like that.
+On payment option provide the needed information.
+
+Kindly refer to the below image: 
+
+![image](https://user-images.githubusercontent.com/65659361/152406578-919a1ba8-9c59-4936-8cb4-e2fe9dcca584.png)
+
+2.7 is the credit card number
+2.8 CVV
+2.9 MOnth and Year
+2.10 ZIP Code of the country you are connected in VPN
+
+IMPORTANT NOTE:
+
+Make sure to provide a ZIP CODE being given together with the BIN.
+
+If payment failed, meaning the BIN is already patch or not working.
+
+Hoping this will help you :)
+
+
+
 
 TO BE UPDATED
